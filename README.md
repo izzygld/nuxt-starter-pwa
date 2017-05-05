@@ -7,7 +7,11 @@ PWA Enhancements are by using [Nuxt-Helpers](https://github.com/fandogh/nuxt-hel
 
 **Results:** [Lighthouse Report](https://googlechrome.github.io/lighthouse/viewer/?gist=ebd16a0506e7f99a4d2b9163f232f052)
 
+## 🚧 WIP
+
 ![image](https://cloud.githubusercontent.com/assets/5158436/25763331/c9b0b310-31f7-11e7-923a-346c256b083b.png)
+
+We are *Almost* near too getting PWA score of 💯 and the only missing check is true offline support. (nuxt/nuxt.js#583)
 
 ## Installation
 
