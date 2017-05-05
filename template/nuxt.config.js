@@ -20,7 +20,7 @@ module.exports = NuxtHelpers(['optimize', 'offline', 'manifest'], {
   ** Customize manifest.json
   */
   manifest: {
-    name: 'Nuxt.js project',
+    name: 'Nuxt.js',
     theme_color: '#3B8070'
   },
   /*
