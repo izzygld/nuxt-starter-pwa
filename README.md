@@ -1,10 +1,13 @@
 # Nuxt.js Starter Template With PWA Enhancements
 
 A [Nuxt.js](https://github.com/nuxt/nuxt.js) starter project template without the distraction of a complicated development environment.
+PWA Enhancements are by using [Nuxt-Helpers](https://github.com/fandogh/nuxt-helpers) addon.
 
-PWA Enhancements are Powered by [Nuxt-Helpers](https://github.com/fandogh/nuxt-helpers) addon
+**Live demo:** https://nuxt.now.sh/
 
-Live demo: [coming soon]
+**Results:** [Lighthouse Report](https://googlechrome.github.io/lighthouse/viewer/?gist=ebd16a0506e7f99a4d2b9163f232f052)
+
+![image](https://cloud.githubusercontent.com/assets/5158436/25763331/c9b0b310-31f7-11e7-923a-346c256b083b.png)
 
 ## Installation
 
