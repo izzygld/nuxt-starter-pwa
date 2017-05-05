@@ -1,15 +1,17 @@
-# Starter
+# Nuxt.js Starter Template With PWA Enhancements
 
 A [Nuxt.js](https://github.com/nuxt/nuxt.js) starter project template without the distraction of a complicated development environment.
 
-Live demo: https://starter.nuxtjs.org
+PWA Enhancements are Powered by [Nuxt-Helpers](https://github.com/fandogh/nuxt-helpers) addon
+
+Live demo: [coming soon]
 
 ## Installation
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
-$ vue init nuxt/starter my-project  
+$ vue init pi0/nuxt-starter-pwa  
 $ cd my-project                     
 # install dependencies
 $ npm install # Or yarn install
