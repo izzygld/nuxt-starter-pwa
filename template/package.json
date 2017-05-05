@@ -5,7 +5,8 @@
   "author": "{{ author }}",
   "private": true,
   "dependencies": {
-    "nuxt": "latest"
+    "nuxt": "latest",
+    "nuxt-helpers": "^0.10.0"
   },
   "scripts": {
     "dev": "nuxt",
