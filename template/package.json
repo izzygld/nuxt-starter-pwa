@@ -1,12 +1,15 @@
 {
-  "name": "{{ name }}",
+  "name": "{{ name }]",
   "version": "1.0.0",
   "description": "{{ description }}",
   "author": "{{ author }}",
   "private": true,
   "dependencies": {
+    "@nuxtjs/manifest": "latest",
+    "@nuxtjs/offline": "latest",
+    "@nuxtjs/optimize": "latest",
     "nuxt": "latest",
-    "nuxt-helpers": "^0.10.0"
+    "nuxt-modules": "latest"
   },
   "scripts": {
     "dev": "nuxt",

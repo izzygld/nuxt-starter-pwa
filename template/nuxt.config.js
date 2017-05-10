@@ -1,7 +1,13 @@
-const NuxtHelpers = require('nuxt-helpers');
-
-// https://github.com/fandogh/nuxt-helpers
-module.exports = NuxtHelpers(['optimize', 'offline', 'manifest'], {
+module.exports = require('nuxt-modules')({
+  /*
+  ** Extend nuxt using nuxt modules system (Alpha)
+  ** Learn more: https://github.com/nuxt/nuxt-modules
+  */
+  modules: [
+    '@nuxtjs/optimize',
+    '@nuxtjs/offline',
+    '@nuxtjs/manifest'
+  ],
   /*
   ** Headers of the page
   */
@@ -42,3 +48,5 @@ module.exports = NuxtHelpers(['optimize', 'offline', 'manifest'], {
     }
   }
 })
+
+console.log(module.exports.plugins)
